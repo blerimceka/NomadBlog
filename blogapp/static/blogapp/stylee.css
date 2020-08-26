@@ -1,0 +1,74 @@
+body {
+  font-family: "Karla", sans-serif;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-size: 18px;
+  padding-left: 40px;
+  padding-right: 40px;
+  letter-spacing: 4px;
+}
+
+.title h1 {
+  color: "#363636";
+  text-align: center;
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.title p {
+  text-align: center;
+  letter-spacing: 8px;
+}
+
+.detail {
+  margin: 0 auto;
+}
+
+button {
+  background: none;
+  border: 2px solid;
+  font: inherit;
+  padding: 5px;
+}
+
+button a {
+  color: #363636;
+}
+
+.slide a:hover {
+  color: #363636;
+  text-decoration: none;
+  font-size: large;
+}
+
+.socials {
+  text-align: center;
+}
+
+i {
+  margin: 5px;
+}
+
+.labels {
+  text-align: center;
+  letter-spacing: 4px;
+}
+
+.buttonlab {
+  background-color: #8c8c8c;
+  color: white;
+  letter-spacing: 3px;
+  padding-right: 85px;
+  padding-left: 85px;
+}
+
+.buttonlab:hover {
+  background-color: #e3afaf;
+  color: azure;
+}
+
+footer {
+  letter-spacing: 5px;
+  text-align: center;
+}

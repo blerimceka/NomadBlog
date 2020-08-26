@@ -1,0 +1,30 @@
+body {
+  font-family: "Karla", sans-serif;
+}
+
+.navbar .navbar-nav .nav-link {
+  font-size: 18px;
+  padding-left: 40px;
+  padding-right: 40px;
+  letter-spacing: 4px;
+}
+
+.title h1 {
+  color: "#363636";
+  text-align: center;
+  font-size: 70px;
+  font-weight: 700;
+}
+
+.title p {
+  text-align: center;
+  letter-spacing: 8px;
+}
+
+.detail {
+  margin: 0 auto;
+}
+
+.readmore a {
+  border: 2px solid "#363636";
+}
